@@ -5,3 +5,4 @@
 layout: home
 ---
 [Fear lesson plans](/Fear-Lesson-Plans)
+[Neural modeling manual](https://gregglickert.github.io/Neural-Modeling-Manual/)
